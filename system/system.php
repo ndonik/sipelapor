@@ -1,0 +1,2 @@
+<?php
+$ENVIRONMENT = 'development';
